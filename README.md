@@ -1,1 +1,1 @@
-# MajorProject
+# Airbnb Clone Project
