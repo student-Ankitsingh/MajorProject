@@ -3,7 +3,7 @@ Front End Start - Npm Run Dev
 Backend Start - npm Start
 🏠 Airbnb Clone – MERN Stack
 
-A full-stack Airbnb-style web application built using MongoDB, Express.js, React.js, Node.js, featuring authentication, property listings, booking system, image upload, and responsive UI.
+A full-stack Airbnb-style web application built using MongoDB, Express.js, React.js, Node.js, featuring authentication, property listings, image upload, and responsive UI.
 
 🚀 Features
 👤 Authentication
@@ -23,16 +23,6 @@ View all listings
 Dynamic filters & search
 
 Single listing page with full details
-
-📅 Booking System
-
-Book a property for specific dates
-
-Check available dates
-
-Booking summary page
-
-User booking history
 
 📤 Image Upload
 
